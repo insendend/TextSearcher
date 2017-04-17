@@ -175,7 +175,7 @@ void Input::InitAll(Menu::Choice &choice, std::string &path, std::string &mask, 
 	}
 
 	// пользовательский ввод элементов поиска
-	case Menu::ByHand:
+	case Menu::Manual:
 	{
 		// пользовательский ввод с клавиатуры
 		UserInput(path, mask, word);

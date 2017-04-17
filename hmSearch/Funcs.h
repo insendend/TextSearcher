@@ -19,12 +19,12 @@ namespace FileWork
 namespace Menu
 {
 	// пункты меню
-	enum Choice { Auto = 1, ByHand, Exit };
+	enum Choice { Auto = 1, Manual, Exit };
 
 	inline void TextMenu(void)
 	{
 		std::cout << "1. Auto (from files in project-folder)" << std::endl;
-		std::cout << "2. By Hand (to enter path, masks, words)" << std::endl;
+		std::cout << "2. Manual (enter path, masks, words)" << std::endl;
 		std::cout << "3. Exit" << std::endl << "Your choice -> ";
 	}
 
