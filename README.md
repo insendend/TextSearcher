@@ -19,7 +19,7 @@
 2. После окончания поиска, результат сохранится в файл "find.txt" в директории с проэктом.
 
 ## Скриншоты
-![ScreenShot](https://raw.github.com/insendend/Testing/master/TextSearcher/screenshots/scrn1.jpg)
-![ScreenShot](https://raw.github.com/insendend/Testing/master/TextSearcher/screenshots/scrn2.jpg)
-![ScreenShot](https://raw.github.com/insendend/Testing/master/TextSearcher/screenshots/scrn3.jpg)
-![ScreenShot](https://raw.github.com/insendend/Testing/master/TextSearcher/screenshots/scrn4.jpg)
+![ScreenShot](https://raw.github.com/insendend/Testing/master/TextSearcher/hmSearch/screenshots/scrn1.jpg)
+![ScreenShot](https://raw.github.com/insendend/Testing/master/TextSearcher/hmSearch/screenshots/scrn2.jpg)
+![ScreenShot](https://raw.github.com/insendend/Testing/master/TextSearcher/hmSearch/screenshots/scrn3.jpg)
+![ScreenShot](https://raw.github.com/insendend/Testing/master/TextSearcher/hmSearch/screenshots/scrn4.jpg)
