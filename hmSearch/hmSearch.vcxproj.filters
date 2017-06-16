@@ -13,9 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="ReadMe.txt" />
+    <Filter Include="Resource Files\screenshots">
+      <UniqueIdentifier>{e07157bf-fed0-4cb2-8227-74965dc8e772}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="hmSearch.cpp">
@@ -32,5 +32,19 @@
     <ClInclude Include="Funcs.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="screenshots\scrn1.jpg">
+      <Filter>Resource Files\screenshots</Filter>
+    </Image>
+    <Image Include="screenshots\scrn2.jpg">
+      <Filter>Resource Files\screenshots</Filter>
+    </Image>
+    <Image Include="screenshots\scrn3.jpg">
+      <Filter>Resource Files\screenshots</Filter>
+    </Image>
+    <Image Include="screenshots\scrn4.jpg">
+      <Filter>Resource Files\screenshots</Filter>
+    </Image>
   </ItemGroup>
 </Project>

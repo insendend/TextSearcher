@@ -1,0 +1,10 @@
+Found "https://" in D:\Docs\Universe.txt
+Found "https://" in D:\Downloads\desktop\New Text Document.txt
+Found "https://" in D:\Soft\Tor Browser\Browser\TorBrowser\Data\Browser\profile.default\bookmarks.html
+Found "https://" in D:\Soft\Tor Browser\Browser\TorBrowser\Data\Browser\profile.default\weave\logs\error-sync-1496675720200.txt
+Found "https://" in D:\Soft\Tor Browser\Browser\TorBrowser\Data\Browser\profile.default\weave\logs\error-sync-1497035270500.txt
+Found "https://" in D:\Soft\Tor Browser\Browser\TorBrowser\Data\Browser\profile.default\weave\logs\error-sync-1497035607700.txt
+Found "https://" in D:\Soft\Tor Browser\Browser\TorBrowser\Data\Browser\profile.default\weave\logs\error-sync-1497036505300.txt
+Found "https://" in D:\Soft\Tor Browser\Browser\TorBrowser\Docs\ChangeLog.txt
+Found "https://" in D:\Soft\Tor Browser\Browser\TorBrowser\Docs\meek\meek-client.1.txt
+Found "https://" in D:\Soft\Tor Browser\Browser\TorBrowser\Docs\meek\meek-server.1.txt
