@@ -6,10 +6,10 @@
 Например, пользователь указывает место поиска D:\, маску: *.txt;*.log и слова: Hello;World.
 
 ## Реализация
-* IDE: MSVC 2015
+* IDE: MSVS 2015
 * LANG: C++
 
-## Описание
+## Руководство пользователя
 Программа поиска текста в файлах с указанным расширением в указанной директории.
 
 1. Выбрать режим поиска (автоматический или выбрать путь, расширения и слова поиска)
@@ -17,3 +17,9 @@
    * Ручной. Можно вручную ввести все параметры.
 
 2. После окончания поиска, результат сохранится в файл "find.txt" в директории с проэктом.
+
+## Скриншоты
+![ScreenShot](https://raw.github.com/insendend/Testing/master/TextSearcher/screenshots/scrn1.jpg)
+![ScreenShot](https://raw.github.com/insendend/Testing/master/TextSearcher/screenshots/scrn2.jpg)
+![ScreenShot](https://raw.github.com/insendend/Testing/master/TextSearcher/screenshots/scrn3.jpg)
+![ScreenShot](https://raw.github.com/insendend/Testing/master/TextSearcher/screenshots/scrn4.jpg)
